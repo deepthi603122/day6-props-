@@ -1,0 +1,30 @@
+.nav{
+    background-color:peru;
+    display: flex;
+    gap: 20px;
+}
+
+.form{
+    border: 2px solid red;
+    width: 400px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    border-radius:10px;
+    
+
+    gap: 5px;
+} 
+
+
+.btn{
+  background-color:blue;
+ 
+}
+
+
+
